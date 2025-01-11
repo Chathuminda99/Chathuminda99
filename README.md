@@ -2,35 +2,42 @@
 
 ## About Me
 
-I am a cyber security professional with a bachelor's degree in information technology with honors, specializing in cyber security. I have experience in mobile application security, web application development, API testing, OS hardening, scripting, and Python. My expertise in these areas allows me to identify potential vulnerabilities and provide effective solutions. I possess a strong understanding of the Payment Card Industry Data Security Standard (PCI DSS) and have experience in conducting VAPT assessments for both mobile and web applications.
+I am an Information Security Engineer with over 2 years of professional experience in cybersecurity. I specialize in penetration testing, focusing on web applications, APIs, networks, and PCI DSS compliance. I have a bachelor's degree in Information Technology with honors from SLIIT, where I specialized in Cyber Security.
 
-In addition to my technical skills, I am a strong communicator and team player. I understand the importance of collaboration and believe that effective communication is key to success in any project.
+My expertise includes vulnerability assessment and penetration testing (VAPT), scripting, Python development, OS hardening, and research into the latest cybersecurity trends. I have hands-on experience with Active Directory (AD) environments, cloud security setups, and PCI DSS standards.
+
+In addition to my technical expertise, I am a dedicated team player and an effective communicator, ensuring successful collaboration in any project or team setting.
 
 ## Skills
 
-- Mobile application security
-- Web application development
-- API testing
-- OS hardening
-- Scripting
-- Python
-- and more...
+- Penetration Testing (Web, APIs, Networks)
+- Web Application Development and Security
+- API Testing and Security
+- Active Directory (AD) and Azure Setup
+- OS Hardening
+- Scripting and Automation
+- Python Development
+- PCI DSS Compliance
+- Cloud Security Configurations
+- CTF Challenges (HackTheBox, etc.)
 
 ## Education
 
-- Bachelor's degree in Information Technology with Honors, specializing in Cyber Security from SLIIT (Sri Lanka Institute of Information Technology)
+- **Bachelor's Degree in Information Technology (Hons)**  
+  Specialization: Cyber Security  
+  **Sri Lanka Institute of Information Technology (SLIIT)**
 
 ## Certifications
 
-- Python advanced learing
-- Introduction to Cyber Security (Coursera)
+- **Certified Payment Industry Security Implementer (CPISI)** - SISA
 
-## Projects
-- Web VAPT assesment for Pinterest.
-- More Web audits
+## Current Focus
+
+- Preparing for **Practical Network Penetration Tester (PNPT)** certification (Expected completion: January 2025).
+- Researching and implementing Cloud Red Teaming strategies, with a focus on Web Applications, Networks, and API security.
 
 ## Contact
 
-- Email: chathuminda3@gmail.com
-<!-- - LinkedIn: [Your LinkedIn Profile URL] -->
-<!-- - Github: [Your Github Profile URL] -->
+- **Email:** chathuminda3@gmail.com  
+- **LinkedIn:** [Your LinkedIn Profile URL]  
+- **GitHub:** [Your GitHub Profile URL]
