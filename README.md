@@ -1,4 +1,4 @@
-# Hi, I'm Lasitha Chathuminda 👋
+# Hi, I'm Lasitha Chathuminda
 
 ![PNPT Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/131916419)
 
