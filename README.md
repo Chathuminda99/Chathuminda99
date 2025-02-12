@@ -1,5 +1,7 @@
 # Hi, I'm Lasitha Chathuminda 👋
 
+![PNPT Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/131916419)
+
 ## About Me
 
 I am an Information Security Engineer with over 2 years of professional experience in cybersecurity. I specialize in penetration testing, focusing on web applications, APIs, networks, and PCI DSS compliance. I have a bachelor's degree in Information Technology with honors from SLIIT, where I specialized in Cyber Security.
@@ -29,6 +31,7 @@ In addition to my technical expertise, I am a dedicated team player and an effec
 
 ## Certifications
 
+- **PNPT (Practical Network Penetration Tester)** - TCM-SECURITY
 - **Certified Payment Industry Security Implementer (CPISI)** - SISA
 
 ## Current Focus
@@ -38,6 +41,6 @@ In addition to my technical expertise, I am a dedicated team player and an effec
 
 ## Contact
 
-- **Email:** chathuminda3@gmail.com  
-<!-- - **LinkedIn:** [Your LinkedIn Profile URL] -->
+- **Email:** chathuminda3@gmail.com
+- **LinkedIn:** [Your LinkedIn Profile URL]
 <!-- - **GitHub:** [Your GitHub Profile URL] -->
