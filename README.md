@@ -36,7 +36,6 @@ In addition to my technical expertise, I am a dedicated team player and an effec
 
 ## Current Focus
 
-- Preparing for **Practical Network Penetration Tester (PNPT)** certification (Expected completion: January 2025).
 - Researching and implementing Cloud Red Teaming strategies, with a focus on Web Applications, Networks, and API security.
 
 ## Contact
