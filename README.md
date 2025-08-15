@@ -42,5 +42,5 @@ In addition to my technical expertise, I am a dedicated team player and an effec
 ## Contact
 
 - **Email:** chathuminda3@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile URL]
+- **LinkedIn:** https://www.linkedin.com/in/lasithabandara99/
 <!-- - **GitHub:** [Your GitHub Profile URL] -->
